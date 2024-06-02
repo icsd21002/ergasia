@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function () {
         firstName: 'Δημητράκης',
         lastName: 'Αδαμόπουλος',
         email: 'dimitris@email.com',
-        password: 'melenedimitri',
+        password: 'dimitrakis',
         phone: '0123456789',
         address: 'kolasi',
         gender: 'Male',
